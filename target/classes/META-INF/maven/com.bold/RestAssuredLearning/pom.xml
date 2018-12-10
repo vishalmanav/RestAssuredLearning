@@ -11,7 +11,7 @@
 			<groupId>io.rest-assured</groupId>
 			<artifactId>rest-assured</artifactId>
 			<version>3.2.0</version>
-			
+
 		</dependency>
 
 		<dependency>
@@ -45,7 +45,26 @@
 			<groupId>org.aeonbits.owner</groupId>
 			<artifactId>owner</artifactId>
 			<version>1.0.10</version>
-		</dependency>	
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi</artifactId>
+			<version>3.6</version>
+		</dependency>
+
+		<!-- http://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>3.6</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>extentreports</artifactId> <!-- Or can user version 3.0.6 if not working -->
+			<version>3.1.5</version> 
+		</dependency>
 
 
 

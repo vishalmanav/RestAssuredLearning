@@ -2,16 +2,23 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3214" started-at="2018-11-19T04:28:26Z" finished-at="2018-11-19T04:28:29Z">
+  <suite name="Default suite" duration-ms="3187" started-at="2018-11-19T11:17:38Z" finished-at="2018-11-19T11:17:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3214" started-at="2018-11-19T04:28:26Z" finished-at="2018-11-19T04:28:29Z">
+    <test name="Default test" duration-ms="3187" started-at="2018-11-19T11:17:38Z" finished-at="2018-11-19T11:17:42Z">
       <class name="com.bold.RestAssuredLearning.Rough.TestApi">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bold.RestAssuredLearning.Rough.TestApi@ae45eb6]" name="beforeMethod" is-config="true" duration-ms="272" started-at="2018-11-19T04:28:26Z" finished-at="2018-11-19T04:28:26Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.bold.RestAssuredLearning.Rough.TestApi@1794d431]" name="beforeMethod" is-config="true" duration-ms="337" started-at="2018-11-19T11:17:38Z" finished-at="2018-11-19T11:17:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.bold.RestAssuredLearning.Rough.TestApi.verifyCreateACustomer()]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyCreateACustomer()[pri:0, instance:com.bold.RestAssuredLearning.Rough.TestApi@ae45eb6]" name="verifyCreateACustomer" duration-ms="2926" started-at="2018-11-19T04:28:26Z" finished-at="2018-11-19T04:28:29Z">
+        <test-method status="PASS" signature="verifyCreateACustomer()[pri:0, instance:com.bold.RestAssuredLearning.Rough.TestApi@1794d431]" name="verifyCreateACustomer" duration-ms="2825" started-at="2018-11-19T11:17:39Z" finished-at="2018-11-19T11:17:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCreateACustomer -->
